@@ -128,7 +128,7 @@
 
 /* ====================================================================================== */
 
-@media (max-width:600px) {
+@media (max-width:640px) {
 
     .nav img{ width: 15%; height: 15%;}
     .nav h1{ font-size: 15px;left: 4rem; top: 2rem;  }
